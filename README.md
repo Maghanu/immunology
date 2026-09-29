@@ -1,4 +1,4 @@
-# Immunology
+# Immunology Projects
 
 This repository contains immunology-focused assay configurators and analysis tools ported from the public portfolio repository `Maghanu/Biomedical-Data-Science-Projects`.
 
